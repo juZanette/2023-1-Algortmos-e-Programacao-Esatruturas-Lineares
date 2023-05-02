@@ -1,1 +1,1 @@
-# 2023-1-Algortmos-e-Programacao-Esatruturas-Lineares
+# 2023-1-Algoritmos-e-Programacao-Esatruturas-Lineares
